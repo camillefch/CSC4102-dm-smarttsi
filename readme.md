@@ -1,5 +1,5 @@
 Group:
-- NFauchier Camille
+- Fauchier Camille
 - Saad Ammari
 
 Copyright (C) 2016-2022
