@@ -1,6 +1,6 @@
 Group:
-- Nom1 Prenom1 (to be adapted)
-- Nom2 Prenom2 (to be adapted)
+- NFauchier Camille
+- Saad Ammari
 
 Copyright (C) 2016-2022
 Contact: Denis.Conan[at]telecom-sudparis.eu
